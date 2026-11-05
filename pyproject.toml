@@ -1,0 +1,9 @@
+[project]
+name = "team-handbuch"
+version = "0.1.0"
+description = "Team handbook for agentic development with Claude Code - exercise project of the Codevibe course T10"
+requires-python = ">=3.12"
+dependencies = []
+
+[tool.uv]
+package = false

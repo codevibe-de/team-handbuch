@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+.pytest_cache/
+.claude/settings.local.json
+CLAUDE.local.md
+.obsidian/workspace*.json
+.obsidian/cache
+.DS_Store
+uv.lock
