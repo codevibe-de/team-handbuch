@@ -9,7 +9,8 @@ Das Handbuch unseres Teams zur Arbeit mit Claude Code: was wir entschieden haben
 
 ## Entscheidungen
 
-- [[permissions]] — wie wir Freigaben für Claude Code verwalten
+- [[permissions]] — gemeinsame Freigaben und Verbote in `.claude/settings.json`
+- [[standard-agent]] — Claude Code als Standard, welches Modell wofür
 
 ## How-tos
 
@@ -18,6 +19,10 @@ Das Handbuch unseres Teams zur Arbeit mit Claude Code: was wir entschieden haben
 - [[env-dateien-schuetzen]] — Geheimnisse per Deny-Regel sperren
 - [[git-workflow]] — Commits, Pull Requests und was Claude nie darf
 
+## Wissen
+
+- [[skill-oder-rule]] — wann ein Skill, wann eine Rule
+
 ## Glossar
 
 - [[agent-loop]] — wie ein Coding-Agent arbeitet
@@ -25,4 +30,4 @@ Das Handbuch unseres Teams zur Arbeit mit Claude Code: was wir entschieden haben
 
 ## Offene Fragen
 
-Noch keine.
+- [[token-verbrauch]] — Verbrauch fast verdoppelt, Anna klärt bis Sprint 44
