@@ -15,4 +15,7 @@ Neues Material liegt in `inbox/`. Jeder Eingang wird zu einer Notiz in `notes/` 
 
 ## Werkzeuge
 
+- `uv run tools/kb_check.py notes/` — prüft alle Notizen; nach jeder Änderung an `notes/` laufen lassen
+- `uv run pytest` — Tests der Werkzeuge
 - `uv run tools/export.py` — Tag-Statistik der Notizen
+- Spezifikationen liegen unter `openspec/specs/`
