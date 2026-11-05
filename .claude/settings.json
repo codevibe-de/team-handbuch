@@ -19,5 +19,23 @@
       "Read(**/.env.*)",
       "Bash(git push *)"
     ]
+  },
+  "hooks": {
+    "PostToolUse": [
+      {
+        "matcher": "Write|Edit",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "uv",
+            "args": [
+              "run",
+              "${CLAUDE_PROJECT_DIR}/.claude/hooks/check_note.py"
+            ],
+            "timeout": 60
+          }
+        ]
+      }
+    ]
   }
 }
