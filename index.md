@@ -22,6 +22,7 @@ Das Handbuch unseres Teams zur Arbeit mit Claude Code: was wir entschieden haben
 ## Wissen
 
 - [[skill-oder-rule]] — wann ein Skill, wann eine Rule
+- [[subagenten]] — eigener Kontext, eigene Rechte, wann es sich lohnt
 
 ## Glossar
 
