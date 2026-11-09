@@ -15,6 +15,8 @@ Das Handbuch unseres Teams zur Arbeit mit Claude Code: was wir entschieden haben
 
 - [[claude-md]] — was in die CLAUDE.md gehört und was nicht
 - [[plan-mode]] — größere Änderungen erst planen lassen
+- [[env-dateien-schuetzen]] — Geheimnisse per Deny-Regel sperren
+- [[git-workflow]] — Commits, Pull Requests und was Claude nie darf
 
 ## Glossar
 
