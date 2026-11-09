@@ -1,0 +1,7 @@
+{
+  "newFileLocation": "folder",
+  "newFileFolderPath": "notes",
+  "attachmentFolderPath": "archive",
+  "showFrontmatter": true,
+  "userIgnoreFilters": ["tests/"]
+}
