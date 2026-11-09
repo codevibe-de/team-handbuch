@@ -2,7 +2,7 @@
 
 Übungsprojekt der Schulung „Agentische Entwicklung mit Claude Code“ von Codevibe IT-Seminare. Das Repo ist die Wissensbasis eines Entwicklungsteams, das Claude Code einführt: Entscheidungen, How-tos, Glossar. Neues Material landet in `inbox/`, Claude verarbeitet es zu Notizen in `notes/`, prüft sie und hält die Startseite `index.md` aktuell.
 
-Über beide Seminartage kommt in jeder Übung genau ein Baustein dazu — CLAUDE.md, Spec, Rules und Permissions, MCP-Server, Skill, Agent, Hook, Plugin. Am Ende läuft das Handbuch ohne Handarbeit, und ihr nehmt eine Vorlage mit, die ihr im eigenen Team weiterführen könnt. Die Aufgaben stehen in [UEBUNGEN.md](UEBUNGEN.md).
+Über beide Seminartage kommt in jeder Übung genau ein Baustein dazu — CLAUDE.md, Spec, Rules und Permissions, MCP-Server, Skill, Agent, Hook, Plugin. Am Ende läuft das Handbuch ohne Handarbeit, und ihr nehmt eine Vorlage mit, die ihr im eigenen Team weiterführen könnt. Die Aufgaben stehen im [Wiki](https://github.com/codevibe-de/team-handbuch/wiki/Übungen).
 
 ## Voraussetzungen
 
@@ -23,7 +23,6 @@ team-handbuch/
 ├── archive/             verarbeitete Eingänge, Protokolle unverändert
 ├── index.md             Startseite, verlinkt jede Notiz
 ├── tools/               Python-Werkzeuge, ausgeführt mit uv run
-├── extras/              Material für spätere Übungen
 └── .obsidian/           Viewer-Einstellungen, für Claude tabu
 ```
 
