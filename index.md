@@ -19,6 +19,7 @@ Das Handbuch unseres Teams zur Arbeit mit Claude Code: was wir entschieden haben
 ## Glossar
 
 - [[agent-loop]] — wie ein Coding-Agent arbeitet
+- [[kontextfenster]] — Kontextfenster, Token und Kompaktierung
 
 ## Offene Fragen
 
