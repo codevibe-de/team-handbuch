@@ -1,0 +1,16 @@
+{
+  "name": "codevibe-de",
+  "owner": {
+    "name": "Codevibe IT-Seminare"
+  },
+  "metadata": {
+    "description": "Plugins aus den Schulungen von Codevibe IT-Seminare"
+  },
+  "plugins": [
+    {
+      "name": "team-handbuch",
+      "source": "./plugins/team-handbuch",
+      "description": "Team-Handbuch als Markdown-Wissensbasis: Inbox verarbeiten, Notizen prüfen, aus anderen Projekten durchsuchen"
+    }
+  ]
+}

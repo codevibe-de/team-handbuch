@@ -1,0 +1,7 @@
+{
+  "name": "team-handbuch",
+  "version": "1.0.0",
+  "description": "Team-Handbuch als Markdown-Wissensbasis: Skill ingest, Agenten recherchierer und wissensarchitekt, Prüf-Hook und MCP-Server kb-search",
+  "author": { "name": "Codevibe IT-Seminare" },
+  "repository": "https://github.com/codevibe-de/team-handbuch"
+}

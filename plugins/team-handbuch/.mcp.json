@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "kb-search": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "${CLAUDE_PLUGIN_ROOT}/scripts/kb_search.py"],
+      "env": { "KB_ROOT": "${CLAUDE_PROJECT_DIR}" }
+    }
+  }
+}
