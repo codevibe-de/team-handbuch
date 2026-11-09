@@ -7,3 +7,4 @@ CLAUDE.local.md
 .obsidian/cache
 .DS_Store
 uv.lock
+.idea/
