@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "kb-search": {
+      "type": "stdio",
+      "command": "uv",
+      "args": ["run", "${CLAUDE_PROJECT_DIR:-.}/tools/kb_search.py"]
+    }
+  }
+}
